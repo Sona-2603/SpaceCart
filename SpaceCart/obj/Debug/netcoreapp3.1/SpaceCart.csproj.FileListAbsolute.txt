@@ -1,0 +1,794 @@
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\SpaceCart.csproj.AssemblyReference.cache
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\SpaceCart.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\SpaceCart.AssemblyInfoInputs.cache
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\SpaceCart.AssemblyInfo.cs
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\SpaceCart.csproj.CoreCompileInputs.cache
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\SpaceCart.MvcApplicationPartsAssemblyInfo.cs
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\SpaceCart.MvcApplicationPartsAssemblyInfo.cache
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\SpaceCart.RazorAssemblyInfo.cache
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\SpaceCart.RazorAssemblyInfo.cs
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\SpaceCart.exe
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\SpaceCart.deps.json
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\SpaceCart.runtimeconfig.json
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\SpaceCart.runtimeconfig.dev.json
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\SpaceCart.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\SpaceCart.pdb
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\SpaceCart.Views.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\SpaceCart.Views.pdb
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\MySql.EntityFrameworkCore.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Jake\dotnet\Test\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\SpaceCart.StaticWebAssets.Manifest.cache
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\SpaceCart.TagHelpers.input.cache
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\SpaceCart.TagHelpers.output.cache
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\SpaceCart.RazorCoreGenerate.cache
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Pages\Index.cshtml.g.cs
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Pages\Login.cshtml.g.cs
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Pages\Register.cshtml.g.cs
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Default.cshtml.g.cs
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\SpaceCart.RazorTargetAssemblyInfo.cache
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\SpaceCart.RazorTargetAssemblyInfo.cs
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\SpaceCart.Views.pdb
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\SpaceCart.csproj.CopyComplete
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\SpaceCart.dll
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\SpaceCart.pdb
+D:\Jake\dotnet\Test\WebApplication1\obj\Debug\netcoreapp3.1\SpaceCart.genruntimeconfig.cache
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.exe
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.deps.json
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.runtimeconfig.json
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.runtimeconfig.dev.json
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.pdb
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.Views.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.Views.pdb
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\MySql.EntityFrameworkCore.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.csproj.AssemblyReference.cache
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.AssemblyInfoInputs.cache
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.AssemblyInfo.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.csproj.CoreCompileInputs.cache
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.MvcApplicationPartsAssemblyInfo.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.MvcApplicationPartsAssemblyInfo.cache
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.RazorAssemblyInfo.cache
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.RazorAssemblyInfo.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\staticwebassets\SpaceCart.StaticWebAssets.Manifest.cache
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.TagHelpers.input.cache
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.TagHelpers.output.cache
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.RazorCoreGenerate.cache
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.RazorTargetAssemblyInfo.cache
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.RazorTargetAssemblyInfo.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.Views.pdb
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.csproj.CopyComplete
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.dll
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.pdb
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.genruntimeconfig.cache
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\Jake\dotnet\Test\SpaceCart\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Account\Info.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Account\UserPurchases.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Products.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Users.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Admin\_AdminLayout.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Filter\Index.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Filter\_CardProduct.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Home\_CardProduct.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Filters.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Product\EditComment.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Purchase\Index.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Purchase\Success.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.exe
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.deps.json
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.runtimeconfig.json
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.runtimeconfig.dev.json
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.pdb
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.Views.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.Views.pdb
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\MySql.EntityFrameworkCore.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.csproj.AssemblyReference.cache
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.AssemblyInfoInputs.cache
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.AssemblyInfo.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.csproj.CoreCompileInputs.cache
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.MvcApplicationPartsAssemblyInfo.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.MvcApplicationPartsAssemblyInfo.cache
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.RazorAssemblyInfo.cache
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.RazorAssemblyInfo.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\staticwebassets\SpaceCart.StaticWebAssets.Manifest.cache
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.TagHelpers.input.cache
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.TagHelpers.output.cache
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.RazorCoreGenerate.cache
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Account\Info.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Account\UserPurchases.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Products.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Users.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Admin\_AdminLayout.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Filter\Index.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Filter\_CardProduct.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Home\_CardProduct.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Filters.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Product\EditComment.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Purchase\Index.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Purchase\Success.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.RazorTargetAssemblyInfo.cache
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.RazorTargetAssemblyInfo.cs
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.Views.pdb
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.csproj.CopyComplete
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.dll
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.pdb
+D:\Jake\dotnet\Test\SpaceCart\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.genruntimeconfig.cache
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.exe
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.deps.json
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.runtimeconfig.json
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.runtimeconfig.dev.json
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.pdb
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.Views.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.Views.pdb
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\MySql.EntityFrameworkCore.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.csproj.AssemblyReference.cache
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.AssemblyInfoInputs.cache
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.AssemblyInfo.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.csproj.CoreCompileInputs.cache
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.MvcApplicationPartsAssemblyInfo.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.MvcApplicationPartsAssemblyInfo.cache
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.RazorAssemblyInfo.cache
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.RazorAssemblyInfo.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\staticwebassets\SpaceCart.StaticWebAssets.Manifest.cache
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.TagHelpers.input.cache
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.TagHelpers.output.cache
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.RazorCoreGenerate.cache
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Account\Info.cshtml.g.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Account\UserPurchases.cshtml.g.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Products.cshtml.g.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Users.cshtml.g.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Admin\_AdminLayout.cshtml.g.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Filter\Index.cshtml.g.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Filter\_CardProduct.cshtml.g.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Home\_CardProduct.cshtml.g.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Filters.cshtml.g.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Product\EditComment.cshtml.g.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Purchase\Index.cshtml.g.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Purchase\Success.cshtml.g.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.RazorTargetAssemblyInfo.cache
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.RazorTargetAssemblyInfo.cs
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.Views.pdb
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.csproj.CopyComplete
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.dll
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.pdb
+D:\Jake\dotnet\Test\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.genruntimeconfig.cache
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.exe
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.deps.json
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.runtimeconfig.json
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.runtimeconfig.dev.json
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.pdb
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.Views.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.Views.pdb
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\MySql.EntityFrameworkCore.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.csproj.AssemblyReference.cache
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.AssemblyInfoInputs.cache
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.AssemblyInfo.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.csproj.CoreCompileInputs.cache
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.MvcApplicationPartsAssemblyInfo.cache
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.RazorAssemblyInfo.cache
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.RazorAssemblyInfo.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\staticwebassets\SpaceCart.StaticWebAssets.Manifest.cache
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.TagHelpers.input.cache
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.TagHelpers.output.cache
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.RazorCoreGenerate.cache
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Account\Info.cshtml.g.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Account\UserPurchases.cshtml.g.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Products.cshtml.g.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Users.cshtml.g.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Admin\_AdminLayout.cshtml.g.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Filter\Index.cshtml.g.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Filter\_CardProduct.cshtml.g.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Home\_CardProduct.cshtml.g.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Filters.cshtml.g.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Product\EditComment.cshtml.g.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Purchase\Index.cshtml.g.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Purchase\Success.cshtml.g.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.RazorTargetAssemblyInfo.cache
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.RazorTargetAssemblyInfo.cs
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.Views.pdb
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.csproj.CopyComplete
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.dll
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.pdb
+D:\Jake\dotnet\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.genruntimeconfig.cache
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.exe
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.deps.json
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.runtimeconfig.json
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.runtimeconfig.dev.json
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.pdb
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.Views.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\SpaceCart.Views.pdb
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\MySql.EntityFrameworkCore.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Space Cart - Application\SpaceCart\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.csproj.AssemblyReference.cache
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.GeneratedMSBuildEditorConfig.editorconfig
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.AssemblyInfoInputs.cache
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.AssemblyInfo.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.csproj.CoreCompileInputs.cache
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.MvcApplicationPartsAssemblyInfo.cache
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.RazorAssemblyInfo.cache
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.RazorAssemblyInfo.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\staticwebassets\SpaceCart.StaticWebAssets.Manifest.cache
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.TagHelpers.input.cache
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.TagHelpers.output.cache
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.RazorCoreGenerate.cache
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Account\Info.cshtml.g.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Account\UserPurchases.cshtml.g.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Products.cshtml.g.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Users.cshtml.g.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Admin\_AdminLayout.cshtml.g.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Filter\Index.cshtml.g.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Filter\_CardProduct.cshtml.g.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Home\_CardProduct.cshtml.g.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Home\_Filters.cshtml.g.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Product\EditComment.cshtml.g.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Purchase\Index.cshtml.g.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Purchase\Success.cshtml.g.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.RazorTargetAssemblyInfo.cache
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.RazorTargetAssemblyInfo.cs
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.Views.pdb
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.csproj.CopyComplete
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.dll
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.pdb
+D:\Space Cart - Application\SpaceCart\obj\Debug\netcoreapp3.1\SpaceCart.genruntimeconfig.cache
